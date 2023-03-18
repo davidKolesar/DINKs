@@ -1,13 +1,13 @@
-package com.DINKs.DINKs;
+package com.dinks.dinks;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DinKsApplication {
+public class DinksApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DinKsApplication.class, args);
+		SpringApplication.run(DinksApplication.class, args);
 	}
 
 }

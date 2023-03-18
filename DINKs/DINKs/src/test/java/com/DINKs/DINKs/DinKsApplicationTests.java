@@ -1,10 +1,10 @@
-package com.DINKs.DINKs;
+package com.dinks.dinks;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DinKsApplicationTests {
+class DinksApplicationTests {
 
 	@Test
 	void contextLoads() {
