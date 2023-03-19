@@ -1,4 +1,4 @@
-package com.dinks.dinks;
+package com.dinks;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
